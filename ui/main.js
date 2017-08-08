@@ -14,7 +14,7 @@ button.onclick = function(){
         }
     };
     
- request.open('GET', 'htt[://.imad.hasura-app.io/counter',true);
+ request.open('GET', 'htt[://http://preethiravisankar.imad.hasura-app.io/counter',true);
  request.send(null);
   
 };
