@@ -1,5 +1,4 @@
 var button = document.getElementById('counter');
-  alert('button cliked');
 var counter = 0;
 button.onclick = function(){
     alert('button cliked');
